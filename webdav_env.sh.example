@@ -1,0 +1,4 @@
+export WEBDAV_ID="id"
+export WEBDAV_PASS="mua-password!"
+export WEBDAV_ENDPOINT="https://munochi.moe/webdav/"
+export WEBDAV_PATH="backfiles/asdf/"
